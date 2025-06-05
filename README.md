@@ -2,7 +2,7 @@
 - 👀 I’m Specilist in Backend Developement (Node.js)
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me 
-- 😄 Pronouns: Devashish Kuamr
+- 😄 Pronouns: Devashish Kumar
 - ⚡ Fun fact: People sleep at night and I sleep during the day.
 
 <!---
