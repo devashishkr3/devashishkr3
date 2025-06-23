@@ -31,12 +31,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashishkr3&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
----
+<!---
 
 ### 📈 Contribution Graph:
 [![Devashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devashishkr3&theme=tokyo-night)](https://github.com/devashishkr3/github-readme-activity-graph)
 
----
+--->
 
 ### 🔗 Let's Connect:
 <p align="left">
