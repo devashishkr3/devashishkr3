@@ -101,15 +101,15 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔗 Let's Connect:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/devashishkr3" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOUR-INSTAGRAM-ID" target="_blank">
+  <a href="https://instagram.com/its_devashishkr" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
   </a>
   &nbsp;
-  <a href="mailto:devashish@example.com">
+  <a href="mailto:dk3127197@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
   </a>
 </p>
